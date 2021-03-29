@@ -11,6 +11,19 @@
 ### Week 13 (01/03/2021 - 07/03/2021)
 
 ### Week 12 (22/02/2021 - 28/02/2021)
+<p style = "text-align: justify">
+Functional fetching of posts from the CMS, utilizing the <i>Axios</i> library of <i>React Native</i>.
+</p>
+
+```JSX
+const [posts, setPosts] = React.useState([]);
+
+React.useEffect(() => {
+    Axios.get('http://arthurmurraydcp.com/wp-json/wp/v2/posts').then(response => {
+        setPosts(response.data);
+    });
+}, [setPosts]);
+```
 
 ### Week 11 (15/02/2021 - 21/02/2021)
 
@@ -41,13 +54,3 @@ Elevator Pitch (15/01): Presentation of the main technical features of the proje
 ### Week 2 (23/11/2020 - 29/11/2020)
 
 ### Week 1 (16/11/2020 - 22/11/2020)
-
-```JSX
-const [posts, setPosts] = React.useState([]);
-
-React.useEffect(() => {
-    Axios.get('http://arthurmurraydcp.com/wp-json/wp/v2/posts').then(response => {
-        setPosts(response.data);
-    });
-}, [setPosts]);
-```
