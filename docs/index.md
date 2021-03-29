@@ -42,26 +42,12 @@ Elevator Pitch (15/01): Presentation of the main technical features of the proje
 
 ### Week 1 (16/11/2020 - 22/11/2020)
 
-### Markdown
+```JSX
+const [posts, setPosts] = React.useState([]);
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+React.useEffect(() => {
+    Axios.get('http://arthurmurraydcp.com/wp-json/wp/v2/posts').then(response => {
+        setPosts(response.data);
+    });
+}, [setPosts]);
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
