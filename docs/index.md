@@ -45,13 +45,16 @@ server and the content could be viewed properly, with consistent uptime and a st
 ### Week 6 (11/01/2021 - 17/01/2021)
 Elevator Pitch (15/01): Presentation of the main technical features of the project.
 
-
 ### Week 5 (14/12/2020 - 20/12/2020)
 
 ### Week 4 (07/12/2020 - 13/12/2020)
 
 ### Week 3 (30/11/2020 - 06/12/2020)
 
+
 ### Week 2 (23/11/2020 - 29/11/2020)
+Meeting with clients to discuss the project in depth and confirm their requirements. Confirmation of a MoSCoW requirement list with
+clients. Discussion of requirements with TA and investigation on possible implementations.
 
 ### Week 1 (16/11/2020 - 22/11/2020)
+First meeting with TA, discussion of project and potential implementations.
