@@ -1,6 +1,8 @@
 ## COMP0016 Development Blog
-### Arthur Murray Dance Content Platform
-### Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao
+
+Arthur Murray Dance Content Platform
+
+Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao
 
 ### Markdown
 
