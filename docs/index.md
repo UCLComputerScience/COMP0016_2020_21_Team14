@@ -1,6 +1,6 @@
-<p style="text-align: center;">Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao</p>
+<p style = "text-align: center;">Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao</p>
 
-<p style="text-align: right">
+
 
 ### Week 16 (22/03/2021 - 28/03/2021)
 
@@ -21,11 +21,12 @@
 ### Week 8 (25/01/2021 - 31/01/2021)
 
 ### Week 7 (18/01/2021 - 24/01/2021)
+<p style = "text-align: justify">
 Focus on finding a suitable web host for the content management system (CMS). Initially, Microsoft Azure Virtual Machine was used, 
 however the connection to the VM was unstable and the contents of the CMS could not be rendered correctly. As a result, we decided 
 to purchase a domain from _GoDaddy_ and store the content in a server based in Hong Kong. We transferred the CMS to the new server 
 and the content could be viewed properly, with consistent uptime and a stable connection.
-
+</p>
 
 ### Week 6 (11/01/2021 - 17/01/2021)
 Elevator Pitch (15/01): Presentation of the main technical features of the project.
@@ -40,8 +41,6 @@ Elevator Pitch (15/01): Presentation of the main technical features of the proje
 ### Week 2 (23/11/2020 - 29/11/2020)
 
 ### Week 1 (16/11/2020 - 22/11/2020)
-
-</p>
 
 ### Markdown
 
