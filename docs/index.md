@@ -1,8 +1,6 @@
-## COMP0016 Team 14 - Arthur Murray Dance Content Platform
-
-You can use the [editor on GitHub](https://github.com/UCLComputerScience/COMP0016_2020_21_Team14/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## COMP0016 Development Blog
+### Arthur Murray Dance Content Platform
+### Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao
 
 ### Markdown
 
