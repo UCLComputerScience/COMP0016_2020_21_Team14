@@ -4,6 +4,10 @@ Arthur Murray Dance Content Platform
 
 Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao
 
+### Week 1 (16/11/2020 - 22/11/2020)
+### Week 2 (23/11/2020 - 29/11/2020)
+### Week 3 (30/11/2020 - 06/12/2020)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -27,11 +31,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UCLComputerScience/COMP0016_2020_21_Team14/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
