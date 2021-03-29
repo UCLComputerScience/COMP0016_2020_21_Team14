@@ -3,24 +3,7 @@ title: COMP0016 - Development Blog
 description: XXX
 
 navbar-links:
+  Test: "Test"
 
 feed_show_excerpt: false
 feed_show_tags: false
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: false
-      social-share: false
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-
-
-exclude:
