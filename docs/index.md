@@ -1,4 +1,4 @@
-Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao
+<p style="text-align: center;">Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao</p>
 
 ### Week 1 (16/11/2020 - 22/11/2020)
 ### Week 2 (23/11/2020 - 29/11/2020)
