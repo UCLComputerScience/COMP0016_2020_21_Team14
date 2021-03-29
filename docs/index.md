@@ -24,7 +24,7 @@
 <p style = "text-align: justify">
 Focus on finding a suitable web host for the content management system (CMS). Initially, Microsoft Azure Virtual Machine was used, 
 however the connection to the VM was unstable and the contents of the CMS could not be rendered correctly. As a result, we decided 
-to purchase a domain from _GoDaddy_ and store the content in a server based in Hong Kong. We transferred the CMS to the new server 
+to purchase a domain from *GoDaddy* and store the content in a server based in Hong Kong. We transferred the CMS to the new server 
 and the content could be viewed properly, with consistent uptime and a stable connection.
 </p>
 
