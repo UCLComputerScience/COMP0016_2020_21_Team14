@@ -1,5 +1,7 @@
 <p style="text-align: center;">Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao</p>
 
+<div style="text-align: right">
+
 ### Week 16 (22/03/2021 - 28/03/2021)
 
 ### Week 15 (15/03/2021 - 21/03/2021)
@@ -39,6 +41,7 @@ Elevator Pitch (15/01): Presentation of the main technical features of the proje
 
 ### Week 1 (16/11/2020 - 22/11/2020)
 
+</div>
 
 ### Markdown
 
