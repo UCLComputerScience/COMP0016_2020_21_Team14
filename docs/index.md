@@ -1,7 +1,3 @@
-## COMP0016 Development Blog
-
-Arthur Murray Dance Content Platform
-
 Team 14 - Periklis Ntinos, WeiJian Xu, Leon Yao
 
 ### Week 1 (16/11/2020 - 22/11/2020)
