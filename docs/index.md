@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COMP0016 Team 14 - Arthur Murray Dance Content Platform
 
 You can use the [editor on GitHub](https://github.com/UCLComputerScience/COMP0016_2020_21_Team14/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
