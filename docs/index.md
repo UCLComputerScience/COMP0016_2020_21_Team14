@@ -13,7 +13,7 @@
 ### Week 12 (22/02/2021 - 28/02/2021)
 <p style = "text-align: justify">
 Functional fetching of posts from the CMS, utilizing the <i>Axios</i> library of <i>React Native</i>. The response is 
-an array of objects in JavaScript Object Notation (JSON) form. 
+an array of objects in JavaScript Object Notation (JSON). 
 </p>
 
 ```JSX
