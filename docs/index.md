@@ -92,6 +92,7 @@ clients. Discussion of requirements with TA and investigation on possible implem
 </p>
 
 <b>MoSCoW List:</b>
+
 |  ID   |               Requirement               | Priority |
 | :---: | :-------------------------------------: | :------: |
 |   1   | iOS Application (view)                  |   Must   |
