@@ -81,8 +81,8 @@ and <i>React Native</i>.
 
 ### Week 3 (30/11/2020 - 06/12/2020)
 <p style = "text-align: justify">
-Research on existing solutions for the proposed project. _Snapp Dance_ was suggested by the clients to act as a guide for the iOS
-application, in terms of functionality and user interface. Discussion of key differences between existing and proposed solution.
+Research on existing solutions for the proposed project. <i>Snapp Dance</i> was suggested by the clients to act as a guide for the
+iOS application, in terms of functionality and user interface. Discussion of key differences between existing and proposed solution.
 </p>
 
 ### Week 2 (23/11/2020 - 29/11/2020)
