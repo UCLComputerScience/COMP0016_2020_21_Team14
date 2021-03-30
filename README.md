@@ -2,7 +2,7 @@
 
 ### Ntinos Periklis, Leon Yao, WeiJian Xu
 
-<p style = "text-align: justify">
+<p style = "text-align: center">
 Arthur Murray is an international dance academy, named after the renowned, world-famous dancer. Working alongside Arthur Murray Dance Academy in Coral Gables,
 we developed a dance content platform for students of the academy to progress in their curriculum. This platform consists of a content management system (CMS),
 through which instructors can distribute dance content, and an iOS application, through which students can view dance routines and progress in their curriculum.
