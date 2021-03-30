@@ -4,18 +4,26 @@
 
 ### Week 16 (22/03/2021 - 28/03/2021)
 <p style = "text-align: justify">
+Final changes to the Portfolio entries and submission of necessary material. Code handover to clients. Review of finalized
+content and submission for marking.
 </p>
 
 ### Week 15 (15/03/2021 - 21/03/2021)
 <p style = "text-align: justify">
+Final modifications to the iOS application and the CMS. Code review with TA and clients to discuss the developed product,
+explain the code and its main functionalities and confirm that the requirements have been met.
 </p>
 
 ### Week 14 (08/03/2021 - 14/03/2021)
 <p style = "text-align: justify">
+Extensive testing of the iOS application to ensure consistent runtime, efficient fetching of required data from the CMS
+and elimination of bugs and errors.
 </p>
 
 ### Week 13 (01/03/2021 - 07/03/2021)
 <p style = "text-align: justify">
+Start of development for the static report website. Tutorials on static websites were followed to determine the best way
+to implement the required functionality and achieve the desired result.
 </p>
 
 ### Week 12 (22/02/2021 - 28/02/2021)
@@ -36,18 +44,25 @@ React.useEffect(() => {
 
 ### Week 11 (15/02/2021 - 21/02/2021)
 <p style = "text-align: justify">
+Addition of requested functionality to iOS application and continuous improvements on the user interface. Further modifications
+to the CMS. Preparation of Prototype 2 to be shared with TA and clients for feedback.
 </p>
 
 ### Week 10 (08/02/2021 - 14/02/2021)
 <p style = "text-align: justify">
+Comparison of the two applications built in <i>React Native</i> and <i>Swift</i>.  Final decision to not proceed further with
+<i>Swift</i> and use <i>React Native</i>, which was our initial choice and more progress had been made.
 </p>
 
 ### Week 9 (01/02/2021 - 07/02/2021)
 <p style = "text-align: justify">
+Second evaluation of <i>Swift</i> to develop the iOS application, due to problems faced when learning <i>React Native</i>. Various
+tutorials were followed and template applications were built using <i>Xcode</i>.
 </p>
 
 ### Week 8 (25/01/2021 - 31/01/2021)
 <p style = "text-align: justify">
+Prototype 1 of the CMS and iOS application was shared with the clients for feedback. Changes on visual aspects for both components.
 </p>
 
 ### Week 7 (18/01/2021 - 24/01/2021)
@@ -76,13 +91,15 @@ difficulty, code efficiency and user-centered design.
 <p style = "text-align: justify">
 Discussion of possible implementations and appropriate tools/technologies to be used for the completion of the project. Concerning
 the iOS application, an investigation will follow to determine the best route among a Progressive Web Application (PWA), <i>Swift</i>
-and <i>React Native</i>.
+and <i>React Native</i>. Investigation on proposed architectural designs, concerning necessary data structures and algorithms.
 </p>
 
 ### Week 3 (30/11/2020 - 06/12/2020)
 <p style = "text-align: justify">
 Research on existing solutions for the proposed project. <i>Snapp Dance</i> was suggested by the clients to act as a guide for the
 iOS application, in terms of functionality and user interface. Discussion of key differences between existing and proposed solution.
+Construction of interactive wireframes to visualize the functionality and user interface of the proposed solution for both the CMS
+and the iOS application.
 </p>
 
 ### Week 2 (23/11/2020 - 29/11/2020)
