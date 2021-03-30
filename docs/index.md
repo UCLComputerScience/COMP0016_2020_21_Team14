@@ -89,6 +89,7 @@ application, in terms of functionality and user interface. Discussion of key dif
 <p style = "text-align: justify">
 Meeting with clients to discuss the project in depth and confirm their requirements. Confirmation of a MoSCoW requirement list with
 clients. Discussion of requirements with TA and investigation on possible implementations.
+</p>
 
 <b>MoSCoW List:</b>
 |  ID   |               Requirement               | Priority |
@@ -98,8 +99,6 @@ clients. Discussion of requirements with TA and investigation on possible implem
 |   3   | Music Suggestions                       |  Should  |
 |   4   | Apple Watch + HealthKit Integration     |  Could   |
 |   5   | Livestream Functionality                |  Could   |
-
-</p>
 
 ### Week 1 (16/11/2020 - 22/11/2020)
 <p style = "text-align: justify">
