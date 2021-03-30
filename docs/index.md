@@ -91,7 +91,12 @@ Meeting with clients to discuss the project in depth and confirm their requireme
 clients. Discussion of requirements with TA and investigation on possible implementations.
 </p>
 
+<br/>
+
 <b>MoSCoW List:</b>
+
+<br/>
+
 |  ID   |               Requirement               | Priority |
 | :---: | :-------------------------------------: | :------: |
 |   1   | iOS Application (view)                  |   Must   |
