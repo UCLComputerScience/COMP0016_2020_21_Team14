@@ -16,6 +16,8 @@
 
 ### Week 13 (01/03/2021 - 07/03/2021)
 <p style = "text-align: justify">
+</p>
+
 ### Week 12 (22/02/2021 - 28/02/2021)
 <p style = "text-align: justify">
 Functional fetching of posts from the CMS, utilizing the <i>Axios</i> library of <i>React Native</i>. The response is
