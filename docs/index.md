@@ -14,6 +14,16 @@ Final modifications to the iOS application and the CMS. Code review with TA and 
 explain the code and its main functionalities and confirm that the requirements have been met.
 </p>
 
+<b>MoSCoW List:</b>
+
+|  ID   |               Requirement               | Priority | Achieved |
+| :---: | :-------------------------------------: | :------: | :------: |
+|   1   | iOS Application (view)                  |   Must   |    Y     |
+|   2   | Content Management System (view/upload) |   Must   |    Y     |
+|   3   | Music Suggestions                       |  Should  |    Y     |
+|   4   | Apple Watch + HealthKit Integration     |  Could   |    N     |
+|   5   | Livestream Functionality                |  Could   |    N     |
+
 ### Week 14 (08/03/2021 - 14/03/2021)
 <p style = "text-align: justify">
 Extensive testing of the iOS application to ensure consistent runtime, efficient fetching of required data from the CMS
