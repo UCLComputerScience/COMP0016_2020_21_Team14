@@ -92,7 +92,6 @@ clients. Discussion of requirements with TA and investigation on possible implem
 </p>
 
 <b>MoSCoW List:</b>
-
 |  ID   |               Requirement               | Priority |
 | :---: | :-------------------------------------: | :------: |
 |   1   | iOS Application (view)                  |   Must   |
@@ -100,7 +99,6 @@ clients. Discussion of requirements with TA and investigation on possible implem
 |   3   | Music Suggestions                       |  Should  |
 |   4   | Apple Watch + HealthKit Integration     |  Could   |
 |   5   | Livestream Functionality                |  Could   |
-
 
 ### Week 1 (16/11/2020 - 22/11/2020)
 <p style = "text-align: justify">
