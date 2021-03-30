@@ -91,11 +91,7 @@ Meeting with clients to discuss the project in depth and confirm their requireme
 clients. Discussion of requirements with TA and investigation on possible implementations.
 </p>
 
-<br/>
-
 <b>MoSCoW List:</b>
-
-<br/>
 
 |  ID   |               Requirement               | Priority |
 | :---: | :-------------------------------------: | :------: |
@@ -104,6 +100,7 @@ clients. Discussion of requirements with TA and investigation on possible implem
 |   3   | Music Suggestions                       |  Should  |
 |   4   | Apple Watch + HealthKit Integration     |  Could   |
 |   5   | Livestream Functionality                |  Could   |
+
 
 ### Week 1 (16/11/2020 - 22/11/2020)
 <p style = "text-align: justify">
