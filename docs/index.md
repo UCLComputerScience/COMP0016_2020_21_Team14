@@ -12,8 +12,8 @@
 
 ### Week 12 (22/02/2021 - 28/02/2021)
 <p style = "text-align: justify">
-Functional fetching of posts from the CMS, utilizing the <i>Axios</i> library of <i>React Native</i>. The response is 
-an array of objects in JavaScript Object Notation (JSON). 
+Functional fetching of posts from the CMS, utilizing the <i>Axios</i> library of <i>React Native</i>. The response is
+an array of objects in JavaScript Object Notation (JSON).
 </p>
 
 ```JSX
@@ -36,9 +36,9 @@ React.useEffect(() => {
 
 ### Week 7 (18/01/2021 - 24/01/2021)
 <p style = "text-align: justify">
-Focus on finding a suitable web host for the content management system (CMS). Initially, Microsoft Azure Virtual Machine was used, 
-however the connection to the VM was unstable and the contents of the CMS could not be rendered correctly. As a result, we decided 
-to purchase a domain from <i>GoDaddy</i> and store the content in a server based in Hong Kong. We transferred the CMS to the new 
+Focus on finding a suitable web host for the content management system (CMS). Initially, Microsoft Azure Virtual Machine was used,
+however the connection to the VM was unstable and the contents of the CMS could not be rendered correctly. As a result, we decided
+to purchase a domain from <i>GoDaddy</i> and store the content in a server based in Hong Kong. We transferred the CMS to the new
 server and the content could be viewed properly, with consistent uptime and a stable connection.
 </p>
 
@@ -46,11 +46,20 @@ server and the content could be viewed properly, with consistent uptime and a st
 Elevator Pitch (15/01): Presentation of the main technical features of the project.
 
 ### Week 5 (14/12/2020 - 20/12/2020)
+Decision to use <i>React Native</i> for the development of the iOS application. The Progressive Web Application (PWA) was rejected
+because the resulting application would not have a native feel and would feel as if a web-browser is being used to access it.
+<i>Swift</i> was rejected due to its steep learning curve, which could result in a poorly developed application in the limited time
+available. Overall, <i>React Native</i> appears to be the best choice for this project, providing a middle ground in terms of
+difficulty, code efficiency and user-centered design.
 
 ### Week 4 (07/12/2020 - 13/12/2020)
+Discussion of possible implementations and appropriate tools/technologies to be used for the completion of the project. Concerning
+the iOS application, an investigation will follow to determine the best route among a Progressive Web Application (PWA), <i>Swift</i>
+and <i>React Native</i>.
 
 ### Week 3 (30/11/2020 - 06/12/2020)
-
+Research on existing solutions for the proposed project. _Snapp Dance_ was suggested by the clients to act as a guide for the iOS
+application, in terms of functionality and user interface. Discussion of key differences between existing and proposed solution.
 
 ### Week 2 (23/11/2020 - 29/11/2020)
 Meeting with clients to discuss the project in depth and confirm their requirements. Confirmation of a MoSCoW requirement list with
