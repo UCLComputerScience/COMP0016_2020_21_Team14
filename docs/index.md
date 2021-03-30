@@ -56,5 +56,14 @@ Elevator Pitch (15/01): Presentation of the main technical features of the proje
 Meeting with clients to discuss the project in depth and confirm their requirements. Confirmation of a MoSCoW requirement list with
 clients. Discussion of requirements with TA and investigation on possible implementations.
 
+<b>MoSCoW List:</b>
+|  ID   |               Requirement               | Priority |
+| :---: | :-------------------------------------: | :------: |
+|   1   | iOS Application (view)                  |   Must   |
+|   2   | Content Management System (view/upload) |   Must   |
+|   3   | Music Suggestions                       |  Should  |
+|   4   | Apple Watch + HealthKit Integration     |  Could   |
+|   5   | Livestream Functionality                |  Could   |
+
 ### Week 1 (16/11/2020 - 22/11/2020)
 First meeting with TA, discussion of project and potential implementations.
